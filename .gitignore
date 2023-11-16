@@ -1,0 +1,15 @@
+*.pdb
+*.exe
+*.dll
+*.p7s
+*.xml
+*._
+*.txt
+*.md
+*.png
+*.nupkg
+*.vsidx
+*.lock
+*.force
+*.Config
+*.targets
