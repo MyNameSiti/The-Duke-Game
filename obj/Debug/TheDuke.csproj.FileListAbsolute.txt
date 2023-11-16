@@ -1,0 +1,11 @@
+D:\Games\TheDuke\bin\Debug\TheDuke.exe.config
+D:\Games\TheDuke\bin\Debug\TheDuke.exe
+D:\Games\TheDuke\bin\Debug\TheDuke.pdb
+D:\Games\TheDuke\obj\Debug\TheDuke.csproj.AssemblyReference.cache
+D:\Games\TheDuke\obj\Debug\TheDuke.csproj.SuggestedBindingRedirects.cache
+D:\Games\TheDuke\obj\Debug\TheDuke.Form1.resources
+D:\Games\TheDuke\obj\Debug\TheDuke.Properties.Resources.resources
+D:\Games\TheDuke\obj\Debug\TheDuke.csproj.GenerateResource.cache
+D:\Games\TheDuke\obj\Debug\TheDuke.csproj.CoreCompileInputs.cache
+D:\Games\TheDuke\obj\Debug\TheDuke.exe
+D:\Games\TheDuke\obj\Debug\TheDuke.pdb
